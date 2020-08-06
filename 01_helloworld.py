@@ -1,2 +1,2 @@
-# This will print Hello, World on output device
+# This is a single line comment
 print("Hello, World!")
